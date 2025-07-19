@@ -4,6 +4,7 @@ Vision AI is an AI-powered assistant designed to help visually impaired individu
 
 
 🔹 Features
+
 ✅ Currency & Document Reader – Detects and reads printed text, including currency notes.
 ✅ Braille to Speech – Converts Braille text into spoken words.
 ✅ Real-Time Object Detection – Identifies and announces objects in front of the user.
